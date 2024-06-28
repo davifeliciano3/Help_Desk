@@ -1,0 +1,3 @@
+Titulo:Impressora quebradaCategoria:ImpressoraDescrição:Não esta imprimindoTitulo:#Impressora quebrada#Categoria:Impressora#Descrição:dasdasddddddddddddddddddddddddddddd
+titulo#Software#descrição
+1#Não dá vídeo#Hardware#não aparece nada na tela
