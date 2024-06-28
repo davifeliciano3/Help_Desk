@@ -4,7 +4,7 @@ Aplicativo de criação e consultas de chamado para um suporte de TI, onde exist
 ## Apenas usuarios com id 1 podem ver todos os chamados,pois estes possuem privilegios
 
 ## <bold>Questões de segurança</bold>
-  Não é possivel fazer acesso direto a outras paginas, pois voçê será redirecionado
+  Não é possivel fazer acesso direto a outras paginas, pois voçê será redirecionado<br/>
   Os arquivos valida login e arquivo.txt estão protegidos em outra pasta
 
 
